@@ -1,3 +1,5 @@
+//Now I try to modify this locally on the computer see if it will create a commit on GitHub
+
 #FizzBuzz Game
 n = input("Enter a number :")
 i = 1
